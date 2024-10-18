@@ -7,4 +7,3 @@ Adicione arquivos ao repositório
 git add . + nome_do_projeto
 
 
-
