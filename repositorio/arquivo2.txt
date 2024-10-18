@@ -1,0 +1,10 @@
+passoa  a passo dos comandos para fazer commit
+1-criar um repositorio.
+mkdir nome_do_projeto (Cria o repositorio)
+cd nome_do_projeto (cria pasta)
+verificar status (git status)
+Adicione arquivos ao repositório
+git add . + nome_do_projeto
+
+
+
